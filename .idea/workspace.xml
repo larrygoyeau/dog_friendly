@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5284eda-f621-4cd8-9f43-a301ddf108c1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[ZY326PQCGP]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="C:\Users\larry\Downloads\dog_friendly-master 4\dog_friendly-master\apps license.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kxbvLfPXwvmCfxghWrdeVUnVoa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="BundleExportedModule" value="ML_Kit_Vision_Quickstart.app" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="ZY326PQCGP" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-12-24T17:39:54.913Z" />
+    <property name="ExportApk.ApkPath" value="C:\Users\larry\Downloads\dog_friendly-master 3\dog_friendly-master\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../dog_friendly-master 3/dog_friendly-master" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.google.mlkit.vision.demo.kotlin" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="ML_Kit_Vision_Quickstart.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5284eda-f621-4cd8-9f43-a301ddf108c1" name="Default Changelist" comment="" />
+      <created>1606645811686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606645811686</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="334" y="0" key="#app" timestamp="1606662456945">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="334" y="0" key="#app/0.0.1234.783@0.0.1234.783" timestamp="1606662456945" />
+    <state x="423" y="98" key="#com.intellij.ide.util.MemberChooser" timestamp="1606656027983">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="423" y="98" key="#com.intellij.ide.util.MemberChooser/0.0.1234.783@0.0.1234.783" timestamp="1606656027983" />
+    <state x="361" y="170" width="515" height="443" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1606820504363">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="361" y="170" width="515" height="443" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1234.783@0.0.1234.783" timestamp="1606820504363" />
+    <state x="398" y="146" key="FileChooserDialogImpl" timestamp="1608837395077">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="398" y="146" key="FileChooserDialogImpl/0.0.1234.783@0.0.1234.783" timestamp="1608837395077" />
+    <state width="986" height="205" key="GridCell.Tab.0.bottom" timestamp="1606828189700">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="986" height="205" key="GridCell.Tab.0.bottom/0.0.1234.783@0.0.1234.783" timestamp="1606828189700" />
+    <state width="986" height="205" key="GridCell.Tab.0.center" timestamp="1606828189700">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="986" height="205" key="GridCell.Tab.0.center/0.0.1234.783@0.0.1234.783" timestamp="1606828189700" />
+    <state width="986" height="205" key="GridCell.Tab.0.left" timestamp="1606828189700">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="986" height="205" key="GridCell.Tab.0.left/0.0.1234.783@0.0.1234.783" timestamp="1606828189700" />
+    <state width="986" height="205" key="GridCell.Tab.0.right" timestamp="1606828189700">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="986" height="205" key="GridCell.Tab.0.right/0.0.1234.783@0.0.1234.783" timestamp="1606828189700" />
+    <state x="325" y="139" width="670" height="676" key="search.everywhere.popup" timestamp="1606820854308">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="325" y="139" width="670" height="676" key="search.everywhere.popup/0.0.1234.783@0.0.1234.783" timestamp="1606820854308" />
+  </component>
+</project>
